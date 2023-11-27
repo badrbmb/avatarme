@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
 pillow = "^10.1.0"
+replicate = "^0.20.0"
+google-cloud-storage = "^2.13.0"
 
 
 [tool.poetry.group.dev.dependencies]
